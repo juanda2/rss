@@ -1,0 +1,10 @@
+{
+  "name": "node-rss-connector",
+  "version": "0.1.0",
+  "description": "",
+  "main": "proxy.js",
+  "dependencies": {
+    "rss-parser": "^3.6.2"
+  },
+  "devDependencies": {}
+}
